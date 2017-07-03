@@ -1,0 +1,8 @@
+{
+  "configNames": [
+    "environmental-exposure-ontology"
+  ],
+  "logoImage": "INCA.png",
+  "baseURL": "/exposure-inca-form/",
+  "title": "Exposure Ontology"
+}
